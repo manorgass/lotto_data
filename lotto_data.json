@@ -1,5 +1,21 @@
 [
   {
+    "round": 1208,
+    "drawDate": "2026-01-24",
+    "numbers": [
+      6,
+      27,
+      30,
+      36,
+      38,
+      42
+    ],
+    "bonusNumber": 25,
+    "totalPrize": 30010281750,
+    "prizePerWinner": 5001713625,
+    "winners": 25
+  },
+  {
     "round": 1207,
     "drawDate": "2026-01-17",
     "numbers": [
