@@ -1,5 +1,23 @@
 [
   {
+    "round": 1244,
+    "drawDate": "2026-10-03",
+    "numbers": [1, 13, 18, 26, 34, 38],
+    "bonusNumber": 25,
+    "totalPrize": 28884359250,
+    "prizePerWinner": 1604686625,
+    "winners": 18
+  },
+  {
+    "round": 1243,
+    "drawDate": "2026-09-26",
+    "numbers": [9, 18, 24, 38, 43, 44],
+    "bonusNumber": 35,
+    "totalPrize": 31110303384,
+    "prizePerWinner": 2592525282,
+    "winners": 12
+  },
+  {
     "round": 1242,
     "drawDate": "2026-09-19",
     "numbers": [2, 4, 10, 16, 31, 41],
